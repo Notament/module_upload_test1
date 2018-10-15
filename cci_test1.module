@@ -1,0 +1,21 @@
+<?php
+
+/**
+ * @file
+ * Contains cci_test1.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_theme().
+ */
+function cci_test1_theme() {
+  return [
+    'cci_test1' => [
+      'variables' => [
+        'content_tests' => NULL
+      ],
+    ],
+  ];
+}

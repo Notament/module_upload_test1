@@ -1,0 +1,14 @@
+{
+  "name": "drupal/cci_test1",
+  "type": "drupal-module",
+  "description": "My Awesome Module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/cci_test1",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/cci_test1",
+    "source": "http://cgit.drupalcode.org/cci_test1"
+  },
+  "require": { }
+}
