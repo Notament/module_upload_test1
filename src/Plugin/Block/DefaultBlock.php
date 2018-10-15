@@ -20,7 +20,7 @@ class DefaultBlock extends BlockBase {
   public function build() {
     return array(
       '#theme' => 'cci_agenda',
-      '#content_test' => "C'est un test"
+      '#content_test' => "C'est un test, plus une modif"
     );
 
 }
